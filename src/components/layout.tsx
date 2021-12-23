@@ -18,7 +18,9 @@ export function Layout(props: Props) {
       </main>
 
       <footer>
-        <p>2022 - Mevrouw de Recruiter</p>
+        <p>
+          <small>2022 - Mevrouw de Recruiter</small>
+        </p>
       </footer>
     </div>
   )

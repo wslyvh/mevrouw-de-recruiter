@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: wslyvh/mevrouw-de-recruiter
+  branch: master
+  base_url: "https://www.mevrouwderecruiter.nl/" # our site's base URL 
+  auth_endpoint: "api/auth" 
+
+media_folder: "public/images"
+public_folder: "/images"
+
+collections: 
+  - name: "pages"
+    label: "Pages"
+    folder: "posts/pages"
+    create: true
+    slug: "{{title}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }

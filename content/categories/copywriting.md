@@ -1,3 +1,3 @@
 ---
-title: copywriting
+title: Copywriting
 ---

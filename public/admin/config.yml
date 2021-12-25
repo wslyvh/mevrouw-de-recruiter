@@ -9,12 +9,109 @@ media_folder: "public/images"
 public_folder: "/images"
 
 collections: 
-  - name: "pages"
-    label: "Pages"
-    folder: "posts/pages"
+  - name: "settings"
+    label: "Settings"
+    extension: "json"
+    files:
+      - name: "settings"
+        label: "Settings"
+        file: "content/settings.json"
+
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Description"
+            name: "description"
+            widget: "string"
+            pattern: ['^.{0,160}$', "Max. of 160 characters"]
+          - label: "About"
+            name: "about"
+            widget: "markdown"
+          - label: "Site url"
+            name: "url"
+            widget: "string"
+          - label: "Email address"
+            name: "email"
+            widget: "string"
+          - label: "LinkedIn url"
+            name: "linkedin"
+            widget: "string"
+          - label: "Twitter handle"
+            name: "twitter"
+            widget: "string"
+            required: false
+          - label: "Logo"
+            name: "logo"
+            widget: "image"
+            choose_url: false
+          - label: "Profile picture"
+            name: "profile"
+            widget: "image"
+            choose_url: false
+          - label: "Social image"
+            name: "social"
+            widget: "image"
+            choose_url: false
+
+  - name: "categories"
+    label: "Categories"
+    folder: "content/categories"
     create: true
-    slug: "{{title}}"
+
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+  - name: "services"
+    label: "Services"
+    folder: "content/services"
+    create: true
+
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        pattern: ['^.{0,160}$', "Max. of 160 characters"]
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "Image" 
+        name: "image"
+        widget: "image"
+        choose_url: false
+
+  - name: "blogs"
+    label: "Blogs"
+    folder: "content/blogs"
+    create: true
+    
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        pattern: ['^.{0,160}$', "Max. of 160 characters"]
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "Image" 
+        name: "image"
+        widget: "image"
+        choose_url: false
+      - label: "Category"
+        name: "category"
+        widget: "relation"
+        collection: "categories"
+        value_field: "title"
+        search_fields: ["title"]
+        multiple: true

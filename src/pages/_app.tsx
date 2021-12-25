@@ -1,9 +1,12 @@
+import PlausibleProvider from 'next-plausible'
+import type { AppProps } from 'next/app'
 import 'assets/styles/globals.scss'
 import 'bootstrap-icons/font/bootstrap-icons.css'
-import type { AppProps } from 'next/app'
 
-function App({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+export default function App({ Component, pageProps }: AppProps) {
+  return (
+    <PlausibleProvider domain='mevrouwderecruiter.nl' trackOutboundLinks>
+      <Component {...pageProps} />
+    </PlausibleProvider>
+  )
 }
-
-export default App

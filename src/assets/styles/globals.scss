@@ -2,18 +2,46 @@
 
 html,
 body {
+  margin: 0 auto;
+  padding: 0;
+  font-family: $font-primary;
+  font-weight: $font-normal;
+  font-size: $size-16;
+  color: $color-neutral;
+}
+
+* {
   padding: 0;
   margin: 0;
-  background: $color-primary;
-  font-family: $font-primary;
-  color: $color-neutral;
+  border: 0;
+  box-sizing: border-box;
+  min-height: 0;
+  min-width: 0;
 }
 
 a {
   color: inherit;
   text-decoration: none;
+
+  &:hover {
+    color: $color-neutral-500;
+  }
 }
 
-* {
-  box-sizing: border-box;
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+h1, .h1 {
+  font-size: $size-h1;
+}
+
+h2, .h2 {
+  font-size: $size-h2;
+}
+
+h3, .h3 {
+  font-size: $size-h3;
 }

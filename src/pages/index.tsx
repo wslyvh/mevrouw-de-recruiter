@@ -1,13 +1,14 @@
 import { Landing } from 'components/landing'
-import { Layout } from 'components/layout'
-import { NextPage } from 'next'
+import { SEO } from 'components/seo'
 
-const Home: NextPage = () => {
+export default function Index() {
   return (
-    <Layout>
-      <Landing />
-    </Layout>
+    <div>
+      <SEO />
+      
+      <main>
+        <Landing />
+      </main>
+    </div>
   )
 }
-
-export default Home

@@ -8,6 +8,8 @@
   height: 100vh;
   padding: 0 20px;
 
+  background: $color-primary;
+
   .picture { 
     height: 180px;
     width: 180px;
@@ -38,6 +40,7 @@
       color: #787878;
       font-size: 1rem;
       margin-top: 4px;
+      margin-bottom: 16px;
     }
 
     p {

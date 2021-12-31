@@ -1,0 +1,26 @@
+@use 'assets/styles/variables.scss' as *;
+
+.container {
+    display: flex;
+    flex-direction: column;
+
+    .row {
+        display: flex;
+
+        input {
+            padding: $gap-8;
+            width: 100%;
+        }
+
+        button {
+            cursor: pointer;
+            background: $color-secondary-darker;
+            padding: $gap-8;
+            margin-left: $gap-8;
+
+            &:hover {
+                background: $color-secondary-lighter;
+            }
+        }
+    }
+}

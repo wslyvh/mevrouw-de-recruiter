@@ -1,0 +1,101 @@
+@use 'assets/styles/variables.scss' as *;
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+
+  .header {
+    @extend .outer;
+    background: $color-primary;
+    padding: $gap-16 0;
+
+    .inner { 
+      @extend .inner;
+    }
+
+    .logo {
+      max-height: 50px;
+    }
+  }
+
+  .content {
+      @extend .outer;
+      height: 100%;
+      padding: $gap-32 0;
+
+      .inner { 
+        @extend .inner;
+      }
+  }
+
+  .footer {
+    @extend .outer;
+    background: $color-secondary;
+    color: #FFFFFF;
+
+    .inner { 
+      @extend .inner;
+      display: flex;
+      flex-direction: column;
+      margin: $gap-16 0;
+
+      h3 { 
+        margin-bottom: $gap-32;
+      }
+
+      .flex { 
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+      
+        .newsletter {
+          display: flex;
+          flex-direction: column;
+        }
+
+        .contact { 
+          display: flex;
+          flex-direction: column;
+          justify-content: flex-start;
+
+          .icons {
+            display: flex;
+            gap: 20px;
+            font-size: $size-16;
+            margin-top: $gap-8;
+
+            a:hover {
+              color: $color-neutral-100;
+            }
+          }
+        }
+      }
+
+      .copyright {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: $size-12;
+        margin-top: $gap-40;
+      }
+    }
+  }
+}
+
+.outer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.inner {
+  width: 100%;
+  max-width: $max-content-width;
+  padding: 0 $gap-32;
+  
+  @media (max-width: $screen-768) {
+    padding: 0 $gap-16;
+  }
+}

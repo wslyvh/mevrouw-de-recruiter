@@ -1,7 +1,7 @@
 ---
 title: "Aapjes kijken!  "
 description: concept maken en vooronderzoek doen
-date: 2022-01-01T18:05:26.138Z
+date: 2022-01-03T18:05:26.138Z
 image: /images/melanie-deziel-fswqpbxqclg-unsplash.jpg
 category:
   - Copywriting

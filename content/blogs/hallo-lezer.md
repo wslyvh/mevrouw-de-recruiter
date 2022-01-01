@@ -1,7 +1,7 @@
 ---
 title: "Hallo lezer!  "
 description: "Omgangsvormen in schrijfland "
-date: 2022-01-01T18:14:24.435Z
+date: 2022-01-10T18:14:24.435Z
 image: /images/nathan-dumlao-pnmrtthwqdm-unsplash.jpg
 category:
   - Copywriting

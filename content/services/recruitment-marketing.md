@@ -1,5 +1,5 @@
 ---
-title: "Recruitment-marketing "
+title: "Recruitment marketing "
 description: "Employer branding en jobmarketing "
 image: /images/lukas-blazek-mcsdtbwxuzu-unsplash.jpg
 ---

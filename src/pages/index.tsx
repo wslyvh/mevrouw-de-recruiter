@@ -14,7 +14,7 @@ interface Props {
 export default function Index(props: Props) {
   return (
     <Layout>
-      <section className={styles.services}>
+      <section id='services' className={styles.services}>
         <h3>Services</h3>
         <hr />
 

@@ -17,8 +17,17 @@ export function Layout(props: Props) {
 
       <div className={styles.header}>
         <header className={styles.inner}>
-          <div className={styles.logo}>
-            <Image src={logo} alt='Mevrouw de Recruiter logo' height={40} layout="responsive" objectFit="contain" />
+          <nav className={styles.nav}>
+            <ul>
+              <li><a href="#about">About</a></li>
+              <li><a href="#services">Services</a></li>
+              <li><a href="#blog">Blog</a></li>
+            </ul>
+          </nav>
+          <div className={styles.image}>
+            <div className={styles.logo}>
+              <Image src={logo} alt='Mevrouw de Recruiter logo' />
+            </div>
           </div>
         </header>
       </div>

@@ -1,6 +1,7 @@
 ---
 title: "Diversiteit en inclusie "
-description: later
+description: "Als inclusief werkgever trek je een divers personeelsbestand aan.
+  En weet je dat te behouden.  "
 image: /images/moren-hsu-vlakstkmvhk-unsplash.jpg
 ---
 nog schrijven

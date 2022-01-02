@@ -1,8 +1,54 @@
 @use 'assets/styles/variables.scss' as *;
 
-.services {
+.about { 
+  margin: 0 0 $gap-16 0;
+  display: flex;
+
+  .left { 
+    flex-shrink: 0;
+    padding: $gap-16 0;
+
+    .picture { 
+      height: 200px;
+      width: 200px;
+      border-radius: 50%;
+      box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 20px -5px;
+    }
+  }
+
+  .right { 
+    margin-left: $gap-16;
+    padding: $gap-32;
+
+    h1, h2 {
+      margin-bottom: $gap-16;
+    }
+
+    h2 { 
+      color: $color-primary;
+    }
+  }
+}
+
+.divider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  hr {
+    width: 50%;
+    margin: $gap-32 0;
+    border: none;
+    height: 1px;
+    background-color: $color-neutral-100;
+  }
+}
+
+.services,
+.blogs {
   display: flex;
   flex-direction: column;
+  margin: $gap-32 0;
 
   hr {
     width: $gap-32;
@@ -43,6 +89,27 @@
 
       h4 {
         margin-bottom: $gap-16;
+      }
+    }
+  }
+}
+
+.blogs { 
+  .blog {
+    padding-bottom: $gap-16;
+    border-bottom: 1px solid $color-neutral-100;
+    margin-bottom: $gap-16;
+    flex-direction: column;
+
+    .title {
+      display: flex;
+      align-items: center;
+      margin-bottom: $gap-8;
+
+      span {
+        margin-left: $gap-8;
+        font-size: $size-12;
+        color: $color-neutral-500;
       }
     }
   }

@@ -4,6 +4,12 @@
   margin: 0 0 $gap-16 0;
   display: flex;
 
+  @media (max-width: $screen-640) {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
   .left { 
     flex-shrink: 0;
     padding: $gap-16 0;
@@ -20,6 +26,11 @@
     margin-left: $gap-16;
     padding: $gap-32;
     padding-bottom: $gap-16;
+
+    @media (max-width: $screen-640) {
+      margin-left: 0;
+      padding: $gap-32 0;
+    }
 
     h1, h2 {
       margin-bottom: $gap-16;

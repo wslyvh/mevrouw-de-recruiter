@@ -55,7 +55,7 @@ export default function Index(props: Props) {
         <hr />
       </section>
 
-      <section id='blogs' className={styles.blogs}>
+      <section id='blog' className={styles.blogs}>
         <h3>Laatste Blogs</h3>
         <hr />
 

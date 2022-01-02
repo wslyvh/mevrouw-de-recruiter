@@ -6,6 +6,7 @@ import { GetBlogs, GetServices } from 'services/content'
 import { Blog, Service } from 'utils/types'
 import styles from './index.module.scss'
 import settings from '../../content/settings.json'
+import { marked } from 'marked'
 
 interface Props {
   blogs: Array<Blog>
@@ -22,7 +23,7 @@ export default function Index(props: Props) {
         <div className={styles.right}>
           <h1>{settings.title}</h1>
           <h2>{settings.description}</h2>
-          <p>{settings.about}</p>
+          <div className={styles.body} dangerouslySetInnerHTML={{__html: marked.parse(settings.about) }} />
         </div>
       </section>
 
@@ -62,7 +63,7 @@ export default function Index(props: Props) {
           return <article key={i.slug} className={styles.blog}>
             <div className={styles.title}>
               <h4>{i.title}</h4>
-              <span>{DateTime.fromMillis(i.date).toFormat('DD MMM yyyy')}</span>
+              <span>{DateTime.fromMillis(i.date).toFormat('dd LLL yyyy')}</span>
             </div>
             <p>{i.description}</p>              
           </article>

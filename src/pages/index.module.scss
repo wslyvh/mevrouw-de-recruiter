@@ -19,6 +19,7 @@
   .right { 
     margin-left: $gap-16;
     padding: $gap-32;
+    padding-bottom: $gap-16;
 
     h1, h2 {
       margin-bottom: $gap-16;
@@ -26,6 +27,14 @@
 
     h2 { 
       color: $color-primary;
+    }
+
+    .body p {
+      margin: $gap-16 0;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
     }
   }
 }

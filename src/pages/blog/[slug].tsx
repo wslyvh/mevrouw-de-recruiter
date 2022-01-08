@@ -21,6 +21,8 @@ interface Params extends ParsedUrlQuery {
 }
 
 export default function Index(props: Props) {
+  if(!props.blog) return null
+  
   return (
     <Layout>
       <SEO title={props.blog.title} description={props.blog.description} imageUrl={props.blog.image} />

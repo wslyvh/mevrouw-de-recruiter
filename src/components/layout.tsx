@@ -5,6 +5,7 @@ import styles from './layout.module.scss'
 import settings from '../../content/settings.json'
 import Image from 'next/image'
 import logo from 'assets/images/white_logo_transparent_background.png'
+import { Link } from './link'
 
 type Props = {
   children: ReactNode
@@ -19,15 +20,14 @@ export function Layout(props: Props) {
         <header className={styles.inner}>
           <nav className={styles.nav}>
             <ul>
-              <li><a href="#about">About</a></li>
-              <li><a href="#services">Services</a></li>
-              <li><a href="#blog">Blog</a></li>
+              <li><Link href='/blog'>Blog</Link></li>
+              <li><Link href='mailto:${settings.email}'>Contact</Link></li>
             </ul>
           </nav>
           <div className={styles.image}>
-            <div className={styles.logo}>
+            <Link href='/' className={styles.logo}>
               <Image src={logo} alt='Mevrouw de Recruiter logo' />
-            </div>
+            </Link>
           </div>
         </header>
       </div>
@@ -47,12 +47,12 @@ export function Layout(props: Props) {
               <h3>Contact</h3>
 
               <div className={styles.icons}>
-                <a href={settings.linkedin}>
+                <Link href={settings.linkedin}>
                   <i className="bi bi-linkedin"></i>
-                </a>
-                <a href={`mailto:${settings.email}`}>
+                </Link>
+                <Link href={`mailto:${settings.email}`}>
                   <i className="bi bi-envelope-fill"></i>
-                </a>
+                </Link>
               </div>
             </section>
           </div>

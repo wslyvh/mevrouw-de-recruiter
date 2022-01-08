@@ -134,4 +134,17 @@
       }
     }
   }
+
+  .more { 
+    display: flex;
+    justify-content: flex-end;
+
+    a { 
+      color: $color-primary-darker;
+
+      &:hover {
+        color: $color-primary;
+      }
+    }
+  }
 }

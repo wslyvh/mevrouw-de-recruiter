@@ -4,7 +4,7 @@ export interface Blog {
     description: string
     date: number
     image: string
-    category: string
+    category: Array<string>
     body: string
 }
 

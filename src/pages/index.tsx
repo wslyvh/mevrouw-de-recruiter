@@ -7,6 +7,7 @@ import { Blog, Service } from 'utils/types'
 import styles from './index.module.scss'
 import settings from '../../content/settings.json'
 import { marked } from 'marked'
+import { Link } from "components/link"
 
 interface Props {
   blogs: Array<Blog>
@@ -44,7 +45,6 @@ export default function Index(props: Props) {
               <div className={styles.body}>
                 <h4>{i.title}</h4>
                 <p>{i.description}</p>
-                {/* <p>{i.body}</p> */}
               </div>
             </article>
           })}
@@ -62,12 +62,15 @@ export default function Index(props: Props) {
         {props.blogs.map((i) => {
           return <article key={i.slug} className={styles.blog}>
             <div className={styles.title}>
-              <h4>{i.title}</h4>
+              <h4><Link href={`/blog/${i.slug}`}>{i.title}</Link></h4>
               <span>{DateTime.fromMillis(i.date).toFormat('dd LLL yyyy')}</span>
             </div>
             <p>{i.description}</p>              
           </article>
         })}
+        <div className={styles.more}>
+          <Link href='/blog'>bekijk alle blogs <i className='smaller bi bi-arrow-right'></i></Link>
+        </div>
       </section>
     </Layout>
   )

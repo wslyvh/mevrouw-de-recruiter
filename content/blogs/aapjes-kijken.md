@@ -14,13 +14,12 @@ Maak een overzicht voor je klant met minimaal 10 push- en pullfactoren vanuit je
 
 Of je nu in de supermarkt gaat staan om aan klanten te vragen waarom ze wel of juist niet voor een product kiezen, eens rondvraagt waarom iemand die voor BMW kiest niet in een Opel wil rijden of aan latent werkzoekenden vraagt wat ze belangrijk vinden als ze wisselen van baan, je verricht altijd eerst (klein of groot) vooronderzoek.  
 
-*Waarom?*  
+*Waarom?*
 
-1. Omdat als je het niet vraagt, je het niet weet en je uiteindelijke tekst gebaseerd is op je aannames.  
+1. Omdat als je het niet vraagt, je het niet weet en je uiteindelijke tekst gebaseerd is op je aannames.
+2. Omdat je graag beslagen ten ijs komt bij je klant, als je moet aantonen waarom je tekst goed is en geschreven voor de doelgroep.
 
-2. Omdat je graag beslagen ten ijs komt bij je klant, als je moet aantonen waarom je tekst goed is en geschreven voor de doelgroep.  
-
-**Appeal (de eerste A van AAP)** 
+**Appeal (de eerste A van AAP)**
 
 Je hebt de push- en pullfactoren in een overzicht gezet. Tijd voor de volgende stap. Nu komt de eerst A van AAP uit de mouw.  
 
@@ -36,22 +35,22 @@ Je krijgt er minder dorst van. Een pullfactor. Helaas geen hele aantrekkelijke w
 
 We weten welke emotie (appeal) we willen aanspreken bij de lezer. De manier waarop je dit doet, heet de approach. Hoe bied je de emotie aan, zodat de doelgroep hem gaat accepteren, consumeren of oeps... toch negeren?  
 
-Een approach is een werkwoord. Het laat je emotie werken en eindigt op ‘–eren’. De meest gebruikte zijn:  
+Een approach is een werkwoord. Het laat je emotie werken en eindigt op ‘–eren’. De meest gebruikte zijn:
 
-* concretiseren (een voorbeeld benoemen) 
-* visualiseren (schets de complete situatie of het personage) 
-* ridiculiseren (‘even Apeldoorn bellen’) 
-* bombarderen (met alle mogelijke voordelen) 
-* confronteren (hoe zeker ben jij van je verzekeraar?) 
-* socialiseren (alle vrouwen met leeftijd 50+ zijn onzeker over hun onderkin, dus het is oké dat jij dat ook bent) 
-* contrasteren (belicht de ene en de andere kant) 
-* autoriteit of ambassadeurs hanteren (als deze dokter of deze hippe dame het aanbeveelt, zal het wel goed zijn) 
-* relativeren (als een ongunstig verleden nog vers in het geheugen van de lezer ligt) 
-* informeren (bewijsvoering met feiten) 
-* emotioneren (inspelen op je medeleven, zoals goede doelen dat doen) 
-* intrigeren (expres onderwerpen weglaten en zo inspelen op de nieuwsgierigheid) 
-* haakje hanteren (als/dan; de lezer moet aan een voorwaarde voldoen om in aanmerking te komen)  
-* adoreren (een puppy, baby of lieve oma doen het altijd goed).  
+* concretiseren (een voorbeeld benoemen)
+* visualiseren (schets de complete situatie of het personage)
+* ridiculiseren (‘even Apeldoorn bellen’)
+* bombarderen (met alle mogelijke voordelen)
+* confronteren (hoe zeker ben jij van je verzekeraar?)
+* socialiseren (alle vrouwen met leeftijd 50+ zijn onzeker over hun onderkin, dus het is oké dat jij dat ook bent)
+* contrasteren (belicht de ene en de andere kant)
+* autoriteit of ambassadeurs hanteren (als deze dokter of deze hippe dame het aanbeveelt, zal het wel goed zijn)
+* relativeren (als een ongunstig verleden nog vers in het geheugen van de lezer ligt)
+* informeren (bewijsvoering met feiten)
+* emotioneren (inspelen op je medeleven, zoals goede doelen dat doen)
+* intrigeren (expres onderwerpen weglaten en zo inspelen op de nieuwsgierigheid)
+* haakje hanteren (als/dan; de lezer moet aan een voorwaarde voldoen om in aanmerking te komen)
+* adoreren (een puppy, baby of lieve oma doen het altijd goed).
 
 Er zijn maar een paar approaches die écht werken voor je appeal. Kies er 1 of combineer er maximaal 2. Experimenteer en bepaal met wat je weet uit je vooronderzoek. Oefening baart kunst. Het wordt steeds makkelijker om in één keer de juiste approach te kiezen.   
 

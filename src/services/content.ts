@@ -28,7 +28,7 @@ export function GetBlogs(): Array<Blog> {
         }
     }).filter(i => !!i) as Array<Blog>
     
-    return items.filter(i => i.date < new Date().getTime()).sort((a, b) => a.date - b.date)
+    return items.filter(i => i.date < new Date().getTime()).sort((a, b) => b.date - a.date)
 }
 
 export function GetServices(): Array<Service> {

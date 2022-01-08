@@ -1,0 +1,62 @@
+@use 'assets/styles/variables.scss' as *;
+
+.blogs {
+  display: flex;
+  flex-direction: column;
+  margin: $gap-16 0;
+
+  hr {
+    width: $gap-32;
+    margin: $gap-16 0 $gap-32 0;
+    border: none;
+    height: 1px;
+    background-color: $color-neutral-100;
+  }
+
+  .blog {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: $gap-32;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 20px -5px;
+
+    &:hover {
+      box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 20px 0px;
+
+      h4 { 
+        color: $color-neutral-500;
+      }
+
+      * {
+        color: $color-neutral;
+      }
+    }
+
+    .image {
+      position: relative;
+      width: 40%;
+      flex-shrink: 0;
+    }
+
+    .body {
+      padding: $gap-32;
+      
+      .date {
+        margin-bottom: $gap-16;
+        color: $color-primary-darker;
+        text-transform: uppercase;
+      }
+
+      .description {
+        color: $color-neutral-500;
+      }
+
+      hr {
+        width: $gap-32;
+        margin: $gap-16 0;
+        border: none;
+        height: 1px;
+        background-color: $color-neutral-100;
+      }
+    }
+  }
+}

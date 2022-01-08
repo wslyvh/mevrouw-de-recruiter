@@ -1,0 +1,100 @@
+@use 'assets/styles/variables.scss' as *;
+
+.blog {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: $gap-32;
+    
+    .image {
+      position: relative;
+      width: 50%;
+      flex-shrink: 0;box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 20px -5px;
+    }
+  
+    .body {
+      padding: $gap-32 0;
+      
+      .date {
+        margin-bottom: $gap-16;
+        color: $color-primary-darker;
+        text-transform: uppercase;
+      }
+  
+      .description {
+        color: $color-neutral-500;
+        margin-bottom: $gap-16;
+      }
+
+      .tags {
+      }
+  
+      hr {
+        width: $gap-32;
+        margin: $gap-16 0;
+        border: none;
+        height: 1px;
+        background-color: $color-neutral-100;
+      }
+    }
+  }
+
+  .more {
+    display: flex;
+    justify-content: flex-end;
+
+    a { 
+      color: $color-primary-darker;
+
+      &:hover {
+        color: $color-primary;
+      }
+    }
+  }
+
+  hr {
+    width: $gap-32;
+    margin: $gap-16 0 $gap-32 0;
+    border: none;
+    height: 1px;
+    background-color: $color-neutral-100;
+  }
+
+  .content {
+    p, ul, ol, h1, h2, h3, h4, h5, h6, blockquote, image, code {
+      margin-bottom: $gap-16
+    }
+
+    a { 
+      color: $color-primary-darker;
+
+      &:hover {
+        color: $color-primary;
+      }
+    }
+
+    ul, ol,
+    ul ul, ol ul,
+    ol ol, ul ol {
+      list-style-position: inside; 
+      margin-left: $gap-16;
+    }
+
+    ul ul, ol ul { 
+      list-style-type: circle; 
+      margin-top: $gap-8;
+      margin-bottom: $gap-8;
+    }
+
+    ol ol, ul ol { 
+      list-style-type: lower-latin; 
+      margin-top: $gap-8;
+      margin-bottom: $gap-8;
+      
+    }
+  }
+}

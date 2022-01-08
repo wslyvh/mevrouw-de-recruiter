@@ -8,6 +8,7 @@ import styles from './index.module.scss'
 import settings from '../../content/settings.json'
 import { marked } from 'marked'
 import { Link } from "components/link"
+import { DEFAULT_REVALIDATE_PERIOD } from "utils/constants"
 
 interface Props {
   blogs: Array<Blog>
@@ -85,5 +86,6 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
       blogs,
       services
     },
+    revalidate: DEFAULT_REVALIDATE_PERIOD
   }
 }

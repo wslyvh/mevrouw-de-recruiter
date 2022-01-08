@@ -10,6 +10,7 @@ import { ParsedUrlQuery } from "querystring"
 import { Tag } from "components/tag"
 import { Link } from "components/link"
 import { SEO } from "components/seo"
+import { DEFAULT_REVALIDATE_PERIOD } from "utils/constants"
 
 interface Props {
   blog: Blog
@@ -61,7 +62,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
         params: { slug: i.slug }
       }
     }),
-    fallback: false
+    fallback: true
   }
 }
 
@@ -81,5 +82,6 @@ export const getStaticProps: GetStaticProps<Props, Params> = async (context) => 
     props: {
       blog,
     },
+    revalidate: DEFAULT_REVALIDATE_PERIOD
   }
 }

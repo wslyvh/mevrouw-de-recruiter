@@ -13,8 +13,12 @@ export function SEO(props: Props) {
   const router = useRouter()
   const title = props.title ? `${props.title} · ${settings.title}` : settings.title
   const description = props.description || settings.description
-  const socialImage = `${settings.url}${settings.social}`
-  const image = props.imageUrl || socialImage
+  const socialImage = `${settings.url.replace(/\/$/, '')}${settings.social}`
+  let imageUrl = props.imageUrl
+  if (imageUrl && !imageUrl.startsWith('http')) {
+    imageUrl = `${settings.url.replace(/\/$/, '')}${imageUrl}`
+  }
+  const image = imageUrl || socialImage
   const url = router.route === '/' ? settings.url : settings.url.replace(/\/$/, '') + router.asPath.split('?')[0]
 
   return (

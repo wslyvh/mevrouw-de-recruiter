@@ -9,6 +9,7 @@ import { marked } from 'marked'
 import { ParsedUrlQuery } from "querystring"
 import { Tag } from "components/tag"
 import { Link } from "components/link"
+import { SEO } from "components/seo"
 
 interface Props {
   blog: Blog
@@ -21,6 +22,8 @@ interface Params extends ParsedUrlQuery {
 export default function Index(props: Props) {
   return (
     <Layout>
+      <SEO title={props.blog.title} description={props.blog.description} imageUrl={props.blog.image} />
+      
       <section id='blog' className={styles.blog}>
         <div className={styles.header}>
           <div className={styles.body}>

@@ -1,5 +1,5 @@
 ---
-title: "Aapjes kijken!  "
+title: Aapjes kijken!
 description: concept maken en vooronderzoek doen
 date: 2022-01-07T18:05:26.138Z
 image: /images/melanie-deziel-fswqpbxqclg-unsplash.jpg

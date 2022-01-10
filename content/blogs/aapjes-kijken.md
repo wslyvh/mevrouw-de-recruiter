@@ -53,15 +53,15 @@ Een approach is een werkwoord. Het laat je emotie werken en eindigt op ‘–ere
 * haakje hanteren (als/dan; de lezer moet aan een voorwaarde voldoen om in aanmerking te komen)
 * adoreren (een puppy, baby of lieve oma doen het altijd goed).
 
-Er zijn maar een paar approaches die écht werken voor je appeal. Kies er 1 of combineer er maximaal 2. Experimenteer en bepaal met wat je weet uit je vooronderzoek. Oefening baart kunst. Het wordt steeds makkelijker om in één keer de juiste approach te kiezen.   
+Er zijn maar een paar approaches die écht werken voor je appeal. Kies er 1 of combineer er maximaal 2. Experimenteer en bepaal met wat je weet uit je vooronderzoek wat gaat werken. Oefening baart kunst. Het wordt steeds makkelijker om in één keer de juiste approach te kiezen.   
 
 **Propositie (de P van de AAP)** 
 
-Welke belofte maak je? Wat gebeurt er in het leven van de lezer als hij het product koopt, solliciteert op de vacature of het advies aanneemt? Je propositie is het kopstuk van je appeal en je approach. Je belooft de lezer een gezonder, avontuurlijker, rustiger, welvarender, gezelliger, gelukkiger leven. Of misschien zelfs wel het allerbeste leven!  
+Welke belofte maak je? Wat gebeurt er in het leven van de lezer als hij het product koopt, solliciteert op de vacature of het advies aanneemt? Je propositie is het kopstuk van je appeal en je approach. Je belooft de lezer een gezonder, avontuurlijker, rustiger, welvarender, gezelliger, gelukkiger leven. Misschien zelfs wel het allerbeste leven! Of de leukste baan. You name it. 
 
 Stel dat je de propositie maakt voor het eerdergenoemde glaasje jus d’orange, dan luidt die misschien: de lezer krijgt een gezonder (want suikervrij en vol vitamines) leven. 
 
-Vaak is een propositie een positieve belofte. Daar wordt iedereen blijer van. Toch heb je soms een negatieve belofte nodig om je punt te maken. Denk bijvoorbeeld aan bijdragen aan minder CO2-uitstoot. Als copywriter kan je inzetten op de belofte dat als meedoet aan de wegwerpmaatschappij, je kinderen straks geen adem meer kunnen halen. De propositie: de kinderen van de lezer krijgen het meest afgrijselijke leven denkbaar.  
+Vaak is een propositie een positieve belofte. Daar wordt iedereen blijer van. Toch heb je soms een negatieve belofte nodig om je punt te maken. Denk bijvoorbeeld aan bijdragen aan minder CO2-uitstoot. Als copywriter kan je inzetten op de belofte dat als meedoet aan de wegwerpmaatschappij, je kinderen straks geen adem meer kunnen halen. De propositie: de kinderen van de lezer krijgen het meest afgrijselijke leven denkbaar. Of is dat te heftig?
 
 **De indruk** 
 
@@ -76,6 +76,4 @@ Dus... 
 
 Heb je deze checklist afgewerkt? Heb je het gevoel dat je onderscheidend, aantrekkelijk en relevant bezig bent? Heb je iets bedacht dat past bij de doelgroep en bij de klant? Je bent klaar voor de start. Schrijven maar!  
 
-*TIP: Er zijn veel boeken geschreven over concepting. Bijvoorbeeld: ‘Concepting’ van auteur Jan Rijkenberg.*
-
-Wil je ‘aapjes kijken’ een keer met me oefenen? Stuur een mail naar: [nicole@mevrouwderecruiter.nl](mailto:nicole@mevrouwderecruiter.nl)
+*Tip van de dag: Schrijf je in voor de opleiding copywriting van de Hogeschool van Utrecht en wordt hier steengoed in!*

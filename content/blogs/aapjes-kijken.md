@@ -72,7 +72,7 @@ Dus... 
 * Wat is je appeal? 
 * Wat is je approach? 
 * Wat is je propositie? 
-* Wat is de de verwachte indruk? 
+* Wat is de verwachte indruk? 
 
 Heb je deze checklist afgewerkt? Heb je het gevoel dat je onderscheidend, aantrekkelijk en relevant bezig bent? Heb je iets bedacht dat past bij de doelgroep en bij de klant? Je bent klaar voor de start. Schrijven maar!  
 

@@ -11,9 +11,9 @@ Soms let ik nog wel eens op in de les. Op de Hogeschool van Utrecht leerde ik: a
 
 **Vooronderzoek** 
 
-Maak een overzicht voor je klant met minimaal 10 push- en pullfactoren vanuit je vooronderzoek. Spaar ze allemaal! Stop pas met vragen stellen aan de doelgroep als je in beide kolommen 10 punten gevonden hebt.  
+Spaar ze allemaal! Maak een overzicht voor je klant met minimaal 10 push- en pullfactoren vanuit je vooronderzoek. Stop pas met vragen stellen aan de doelgroep als je in beide kolommen 10 punten gevonden hebt.  
 
-Of je nu in de supermarkt gaat staan om aan klanten te vragen waarom ze wel of juist niet voor een product kiezen, eens rondvraagt waarom iemand die voor BMW kiest niet in een Opel wil rijden of aan latent werkzoekenden vraagt wat ze belangrijk vinden als ze wisselen van baan, je verricht altijd eerst (klein of groot) vooronderzoek.  
+Dus ga eens in de supermarkt staan en aan klanten te vragen waarom ze wel of juist niet voor een product kiezen. Vraag eens rond waarom iemand die voor BMW kiest niet in een Opel wilt rijden. Of aan latent werkzoekenden wat ze belangrijk vinden als ze wisselen van baan. Je verricht altijd eerst (klein of groot) vooronderzoek.  
 
 *Waarom?*
 
@@ -22,7 +22,7 @@ Of je nu in de supermarkt gaat staan om aan klanten te vragen waarom ze wel of j
 
 **Appeal (de eerste A van AAP)**
 
-Je hebt de push- en pullfactoren in een overzicht gezet. Tijd voor de volgende stap. Nu komt de eerst A van AAP uit de mouw.  
+Je hebt de push- en pullfactoren in een overzicht gezet. Tijd voor de volgende stap. Nu komt de eerste A van AAP uit de mouw.  
 
 De truc voor het kiezen van een juist appeal is je gezond verstand gebruiken. Welke emotie roept het product, het onderwerp, de vacature of het bedrijf bij de lezer op? Wees daarbij niet voorzichtig en probeer de ware emotie te horen tijdens je vooronderzoek. Leef je in!  
 

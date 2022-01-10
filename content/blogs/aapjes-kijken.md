@@ -1,12 +1,13 @@
 ---
 title: Aapjes kijken!
-description: concept maken en vooronderzoek doen
+description: Aansprekend schrijven vanuit een concept. Daar moet je de doelgroep
+  voor kennen. Vooronderzoek doen naar push- en pullfactoren.
 date: 2022-01-07T18:05:26.138Z
 image: /images/melanie-deziel-fswqpbxqclg-unsplash.jpg
 category:
   - Copywriting
 ---
-Aansprekend schrijven vanuit een concept. Daar moet je de doelgroep voor kennen. Vooronderzoek doen naar push- en pullfactoren en vervolgens kijken welke AAP je kiest. AAP staat voor approach (A), appeal (A) en propositie (P). Allemaal ingrediënten voor een waterdicht concept. Dit onderscheidt een copywriter van een tekstschrijver. Je schrijft niet alleen teksten, je werkt conform een beproefde methode om tot de allerbeste communicatie te komen.  
+Soms let ik nog wel eens op in de les. Op de Hogeschool van Utrecht leerde ik: aansprekend schrijven vanuit een concept. En daarvoor moet je de doelgroep kennen. Vooronderzoek doen naar push- en pullfactoren en vervolgens kijken welke AAP je kiest. Say whut?! AAP staat voor approach (A), appeal (A) en propositie (P). Allemaal ingrediënten voor een waterdicht concept. Lees mijn blog en jij schrijft voortaan niet alleen teksten, je werkt conform een beproefde methode om tot de allerbeste communicatie te komen. 
 
 **Vooronderzoek** 
 

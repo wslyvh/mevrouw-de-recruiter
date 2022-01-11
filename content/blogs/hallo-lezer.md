@@ -1,6 +1,7 @@
 ---
 title: "Hallo lezer!  "
-description: "Omgangsvormen in schrijfland "
+description: "Omgangsvormen in schrijfland. Voor wie schrijf je nu eigenlijk?
+  Niet voor jezelf. "
 date: 2022-01-16T18:14:24.435Z
 image: /images/nathan-dumlao-pnmrtthwqdm-unsplash.jpg
 category:

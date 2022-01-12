@@ -13,7 +13,7 @@ Soms let ik nog wel eens op in de les. Op de Hogeschool van Utrecht leerde ik: a
 
 Spaar ze allemaal! Maak een overzicht voor je klant met minimaal 10 push- en pullfactoren vanuit je vooronderzoek. Stop pas met vragen stellen aan de doelgroep als je in beide kolommen 10 punten gevonden hebt.  
 
-Dus ga eens in de supermarkt staan en aan klanten te vragen waarom ze wel of juist niet voor een product kiezen. Vraag eens rond waarom iemand die voor BMW kiest niet in een Opel wilt rijden. Of aan latent werkzoekenden wat ze belangrijk vinden als ze wisselen van baan. Je verricht altijd eerst (klein of groot) vooronderzoek voordat je start met schrijven.  
+Dus ga eens in de supermarkt staan en aan klanten te vragen waarom ze wel of juist niet voor een product kiezen. Vraag eens rond waarom iemand die voor BMW kiest niet in een Opel wil rijden. Of aan latent werkzoekenden wat ze belangrijk vinden als ze wisselen van baan. Je verricht altijd eerst (klein of groot) vooronderzoek voordat je start met schrijven.  
 
 *Waarom?*
 

@@ -53,7 +53,7 @@ Een approach is een werkwoord. Het laat je emotie werken en eindigt op ‘–ere
 * haakje hanteren (als/dan; de lezer moet aan een voorwaarde voldoen om in aanmerking te komen)
 * adoreren (een puppy, baby of lieve oma doen het altijd goed).
 
-Er zijn maar een paar approaches die écht werken voor je appeal. Kies er 1 of combineer er maximaal 2. Experimenteer en bepaal met wat je weet uit je vooronderzoek wat gaat werken. Oefening baart kunst. Het wordt steeds makkelijker om in één keer de juiste approach te kiezen.   
+Er zijn maar een paar approaches die écht werken voor je appeal. Kies er 1 of combineer er maximaal 2. Experimenteer en bepaal met wat je weet uit je vooronderzoek wat werkt. Oefening baart kunst. Het wordt steeds makkelijker om in één keer de juiste approach te kiezen.   
 
 **Propositie (de P van de AAP)** 
 
@@ -65,7 +65,7 @@ Vaak is een propositie een positieve belofte. Daar wordt iedereen blijer van. To
 
 **De indruk** 
 
-Je AAP is klaar. Gefeliciteerd. Veel van het voorafgaande denkwerk is achter de rug. Als laatste fase in je conceptvorming doe je een gooi naar het effect dat je tekst gaat hebben op de lezer. Wat denkt de lezer? Voorbeeld: ‘dit product moet ik hebben!’. Of misschien: ‘dit bedrijf heeft het beste met mij voor’. Of ‘ik moet nu iets doen, anders mis ik de boot’. Achteraf meet je natuurlijk pas of je gelijk hebt, maar je moet de indruk van de lezer van tevoren bedenken om er naartoe te kunnen schrijven.  
+Je AAP is klaar. Gefeliciteerd. Veel van het voorafgaande denkwerk is achter de rug. In de laatste fase van je conceptvorming doe je een gooi naar het effect dat je tekst gaat hebben op de lezer. Wat denkt de lezer? Voorbeeld: ‘dit product moet ik hebben!’. Of misschien: ‘dit bedrijf heeft het beste met mij voor’. Of ‘ik moet nu iets doen, anders mis ik de boot’. Achteraf meet je natuurlijk pas of je gelijk hebt, maar je moet de indruk van de lezer van tevoren bedenken om er naartoe te kunnen schrijven.  
 
 Dus... 
 

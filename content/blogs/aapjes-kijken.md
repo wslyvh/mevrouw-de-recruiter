@@ -26,7 +26,7 @@ Je hebt de push- en pullfactoren in een overzicht gezet. Tijd voor de volgende s
 
 De truc voor het kiezen van een juist appeal is je gezond verstand gebruiken. Welke emotie roept het product, het onderwerp, de vacature of het bedrijf bij de lezer op? Wees daarbij niet voorzichtig en probeer de ware emotie te horen tijdens je vooronderzoek. Leef je in!  
 
-Wat wordt verstaand onder een positief appeal? Alle emoties die zorgen voor een gelukzalig gevoel. Nieuwsgierigheid, trots, trouw, status of populariteit. Moet je de keuze voor een negatief appeal ontwijken? Nee! Je gaat aan de slag met wat de doelgroep écht voelt. In goede en in slechte tijden. De doelgroep kan ook jaloezie, verontwaardiging, onzekerheid of wantrouwen voelen. Kies altijd één appeal en experimenteer op kleine schaal wat werkt. 
+Wat wordt verstaan onder een positief appeal? Alle emoties die zorgen voor een gelukzalig gevoel. Nieuwsgierigheid, trots, trouw, status of populariteit. Moet je de keuze voor een negatief appeal ontwijken? Nee! Je gaat aan de slag met wat de doelgroep écht voelt. In goede en in slechte tijden. De doelgroep kan ook jaloezie, verontwaardiging, onzekerheid of wantrouwen voelen. Kies altijd één appeal en experimenteer op kleine schaal wat werkt. 
 
 Een voorbeeld (en iets wat momenteel voor mijn neus staat): wat is het appeal van een glaasje jus d’orange?  
 

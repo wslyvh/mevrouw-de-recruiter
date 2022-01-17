@@ -2,7 +2,7 @@
 title: "Hallo lezer!  "
 description: "Omgangsvormen in schrijfland. Voor wie schrijf je nu eigenlijk?
   Niet voor jezelf. "
-date: 2022-01-16T18:14:24.435Z
+date: 2022-01-20T16:19:31.693Z
 image: /images/nathan-dumlao-pnmrtthwqdm-unsplash.jpg
 category:
   - Copywriting

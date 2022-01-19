@@ -1,7 +1,7 @@
 ---
 title: Show don't tell
 description: expliciet of impliciet?
-date: 2022-01-17T19:56:20.068Z
+date: 2022-01-27T19:56:20.068Z
 image: /images/fine-photographics-eshq8_mivak-unsplash.jpg
 category:
   - Copywriting

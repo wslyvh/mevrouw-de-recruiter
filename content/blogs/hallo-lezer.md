@@ -1,21 +1,23 @@
 ---
 title: "Hallo lezer!  "
-description: "Omgangsvormen in schrijfland. Voor wie schrijf je nu eigenlijk?
-  Niet voor jezelf. "
+description: "Omgangsvormen in schrijfland. Voor wie schrijf je eigenlijk? Niet
+  voor jezelf. "
 date: 2022-01-20T16:19:31.693Z
 image: /images/nathan-dumlao-pnmrtthwqdm-unsplash.jpg
 category:
   - Copywriting
 ---
-Omgaan met je lezers. Je bent als schrijver onderschikt aan wat je klant en de lezer van je tekst vinden. Besef je dat. Voor wie schrijf je nu eigenlijk? Niet voor jezelf. Zet je eigen mening even aan de kant. Het gaat erom wat de lezer vindt, niet wat jij vindt. De lezer moet blij zijn met de communicatie, tevreden zijn over de inhoud en daar snel een beslissing op kunnen nemen. Je wilt je lezer informeren, stimuleren tot nadenken of activeren om iets te gaan ondernemen. Kies er één.  
+Omgaan met je lezers. Je bent als schrijver onderschikt aan wat je klant en de lezer van je tekst vinden. Besef je je dat? Voor wie schrijf je nu eigenlijk? Niet voor jezelf toch? Zet je eigen mening even aan de kant. De lezer moet blij zijn met de communicatie, tevreden zijn over de inhoud en daar snel een beslissing op kunnen nemen. Je wilt je lezer informeren, stimuleren tot nadenken of activeren om iets te gaan ondernemen. Kies er één en borduur daar op verder. 
 
 **Omgangsvormen** 
 
-Welke rol neem je aan als schrijver of zender van de communicatie? Welke rol geef je aan je lezer? Hoe is de onderlinge relatie? Het antwoord op deze vragen is het betrekkingsniveau. Los van wat je zegt (de inhoud), moet je je afvragen binnen welke relatie deze inhoud wordt uitgesproken.  
+Welke rol neem je aan als schrijver of zender van de communicatie? Welke rol geef je aan je lezer? Hoe is de onderlinge relatie? Het antwoord op deze vragen is het betrekkingsniveau. Los van wat je zegt (de inhoud), moet je je afvragen binnen welke relatie de inhoud wordt uitgesproken.  
 
 Hebben we hier te maken met vaste klanten of fans van een merk die we informeren over een nieuwe collectie? Dan kennen we elkaar al een tijdje, zitten we op hetzelfde niveau qua kennis en spreken we elkaar aan met ‘je’ en ‘jij'. Misschien vangen we de tekst zelfs aan met ‘hoi’.  
 
-Is dit de eerste keer dat iemand geïnformeerd wordt over een bepaalde belasting die moet worden betaald? Dan is je lezer niet blij, heeft vast veel vragen en is er sprake van een ongelijkwaardige relatie ofwel: de relatie is uit balans. We hebben niet hetzelfde kennisniveau en je pakt de lezer in zijn portemonnee waar het altijd pijn doet. Voel je het verschil in betrekkingsniveau met de fans?  
+Is dit de eerste keer dat iemand geïnformeerd wordt over een bepaalde belasting die moet worden betaald? Dan is je lezer niet blij, heeft vast veel vragen en is er sprake van een ongelijkwaardige relatie. Ofwel: de relatie is uit balans. We hebben niet hetzelfde kennisniveau en je pakt de lezer ook nog eens in zijn portemonnee. En daar doet het altijd pijn. Hier kies je eerder voor 'geachte' of 'beste' en spreek je in de 'u-vorm'. 
+
+Voel je het verschil in betrekkingsniveau? 
 
 **Denken en doordenken** 
 

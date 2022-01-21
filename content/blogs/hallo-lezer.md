@@ -18,9 +18,7 @@ Is dit de eerste keer dat iemand geïnformeerd wordt over een belasting die moet
 
 **Denken en doordenken** 
 
-In mijn andere blog schrijf ik over open en gesloten vragen. En hoe je die het beste inzet. Als schrijver denk je na over wat de lezer gaat antwoorden op die vragen. Wees je bewust van de zogenaamde subtekst: een gedachte die mogelijk ontstaat bij de lezer. Onbedoeld of bedoeld. 
-
-Let op dat je tekst niet per ongeluk sarcastisch, pessimistisch of arrogant wordt. Of dat de lezer precies het tegenovergestelde leest van wat je bedoelt door een persoonlijk donderwolkje in de lucht waar je niet vanaf weet. Of doordat er in de media iets is gedeeld. Of... 
+In mijn andere blog schrijf ik over open en gesloten vragen. En hoe je die het beste inzet. Als schrijver denk je na over wat de lezer gaat antwoorden op die vragen. Wees je bewust van de zogenaamde subtekst: een gedachte die mogelijk ontstaat bij de lezer. Onbedoeld of bedoeld. Let op dat je tekst niet per ongeluk sarcastisch, pessimistisch of arrogant wordt. Of dat de lezer precies het tegenovergestelde leest van wat je bedoelt door een persoonlijk donderwolkje in de lucht waar je niet vanaf weet. Of doordat er in de media iets is gedeeld. Of... 
 
 Je tekst: *Uber-chauffeurs zijn eigen baas en bepalen zelf waar en wanneer ze rijden.* 
 

@@ -6,7 +6,7 @@ image: /images/kelli-tungay-2lj4rqk2qfu-unsplash.jpg
 category:
   - Copywriting
 ---
-Omgaan met je lezers. Je bent als schrijver onderschikt aan wat je klant en de lezer van je tekst vinden. Besef je je dat? Voor wie schrijf je nu eigenlijk? Niet voor jezelf toch? Zet je eigen mening even aan de kant. De lezer moet blij zijn met de communicatie, tevreden zijn over de inhoud en daar snel een beslissing op kunnen nemen. Je wilt je lezer informeren, stimuleren tot nadenken of activeren om iets te gaan ondernemen. Kies er één en borduur daar op verder. 
+Omgaan met je lezers. Je bent als schrijver onderschikt aan wat je klant en de lezers van je tekst vinden. Besef je je dat? Voor wie schrijf je eigenlijk? Niet voor jezelf toch? Zet je eigen mening eventjes aan de kant. De lezer moet blij zijn met de communicatie, tevreden zijn over de inhoud en daar snel een beslissing op kunnen nemen. Je wilt je lezer informeren, stimuleren tot nadenken of activeren om iets te gaan ondernemen. Kies er één en borduur daar op verder. 
 
 **Omgangsvormen** 
 
@@ -14,9 +14,7 @@ Welke rol neem je aan als schrijver of zender van de communicatie? Welke rol gee
 
 Hebben we hier te maken met vaste klanten of fans van een merk die we informeren over een nieuwe collectie? Dan kennen we elkaar al een tijdje, zitten we op hetzelfde niveau qua kennis en spreken we elkaar aan met ‘je’ en ‘jij'. Misschien vangen we de tekst zelfs aan met ‘hoi’.  
 
-Is dit de eerste keer dat iemand geïnformeerd wordt over een belasting die moet worden betaald? Dan is je lezer niet blij, heeft vast veel vragen en is er sprake van een ongelijkwaardige relatie. Ofwel: de relatie is uit balans. We hebben niet hetzelfde kennisniveau en je pakt de lezer ook nog eens in zijn portemonnee. En daar doet het altijd pijn. Voel je het verschil in betrekkingsniveau? 
-
-Hier kies je eerder voor 'geachte' of 'beste' en spreek je in de 'u-vorm'. Valkuil is dat je tekst hierdoor meer zakelijk dan persoonlijk uitpakt. Iets om op te letten. 
+Is dit de eerste keer dat iemand geïnformeerd wordt over een belasting die moet worden betaald? Dan is je lezer niet blij, heeft vast veel vragen en is er sprake van een ongelijkwaardige relatie. Ofwel: de relatie is uit balans. We hebben niet hetzelfde kennisniveau en je pakt de lezer ook nog eens in zijn portemonnee. En daar doet het altijd pijn. Voel je het verschil in betrekkingsniveau? Hier kies je voor 'geachte' of 'beste' en spreek je in de 'u-vorm'. Valkuil is dat je tekst hierdoor meer zakelijk dan persoonlijk uitpakt. Iets om op te letten als je de relatie goed wilt houden. 
 
 **Denken en doordenken** 
 

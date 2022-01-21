@@ -3,7 +3,7 @@ title: "Hallo lezer!  "
 description: "Omgangsvormen in schrijfland. Voor wie schrijf je eigenlijk? Niet
   voor jezelf. "
 date: 2022-01-20T16:19:31.693Z
-image: /images/nathan-dumlao-pnmrtthwqdm-unsplash.jpg
+image: /images/kelli-tungay-2lj4rqk2qfu-unsplash.jpg
 category:
   - Copywriting
 ---
@@ -31,6 +31,6 @@ Of een ander voorbeeld.  
 
 Je tekst: *Libelle lezers zijn in de bloei van hun leven.*  
 
-Subtekst: *Libelle lezers zijn vrouwen die niets anders meer te doen hebben dan een stom tijdschrift lezen.*  
+Subtekst: *Libelle lezers zijn vrouwen die niets anders meer te doen hebben dan een tijdschrift lezen.*  
 
-Kan je dan helemaal niets meer zeggen? Natuurlijk wel. Het gaat om de inhoud en het betrekkingsniveau. Nadenken en doordenken over wat je doelgroep zich in het hoofd haalt. Je wederom verplaatsen in je lezer.
+Kan je dan helemaal niets meer zeggen? Natuurlijk wel. Het gaat om de inhoud en het betrekkingsniveau. Nadenken en doordenken over wat je doelgroep zich in het hoofd haalt. Je verplaatsen in je lezer.

@@ -21,11 +21,11 @@ Voel je het verschil in betrekkingsniveau?
 
 **Denken en doordenken** 
 
-In mijn andere blog schrijf ik over open en gesloten vragen en dat je als schrijver moet nadenken over wat de lezer gaat antwoorden op die vragen. Je moet je bewust zijn van de subtekst: een gedachte die mogelijk ontstaat bij de lezer. Onbedoeld of bedoeld. Let op dat je tekst niet per ongeluk sarcastisch, pessimistisch of arrogant wordt. Of dat de lezer precies het tegenovergestelde leest van wat je bedoelt door een donderwolkje in de lucht waar je niet voldoende vanaf weet.  
+In mijn andere blog schrijf ik over open en gesloten vragen. En hoe je die het beste inzet. Als schrijver denk je na over wat de lezer gaat antwoorden op die vragen. Wees je bewust zijn van de zogenaamde subtekst: een gedachte die mogelijk ontstaat bij de lezer. Onbedoeld of bedoeld. Let op dat je tekst niet per ongeluk sarcastisch, pessimistisch of arrogant wordt. Of dat de lezer precies het tegenovergestelde leest van wat je bedoelt door een persoonlijk donderwolkje in de lucht waar je niet vanaf weet.  
 
-Je tekst: *Uber-chauffeurs zijn eigen baas en hebben bepalen zelf waar en wanneer ze rijden.* 
+Je tekst: *Uber-chauffeurs zijn eigen baas en bepalen zelf waar en wanneer ze rijden.* 
 
-Subtekst: *Uber-chauffeurs hebben het rijbewijs bij een pakje boter gekregen en kruipen dronken achter het stuur.*  
+Subtekst: *Uber-chauffeurs hebben hun rijbewijs bij een pakje boter gekregen en kruipen dronken achter het stuur.*  
 
 Of een ander voorbeeld.  
 

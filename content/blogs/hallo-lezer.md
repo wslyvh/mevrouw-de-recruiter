@@ -29,10 +29,10 @@ Je tekst: *Uber-chauffeurs zijn eigen baas en bepalen zelf waar en wanneer ze ri
 
 Subtekst: *Uber-chauffeurs hebben hun rijbewijs bij een pakje boter gekregen en kruipen dronken achter het stuur.*  
 
-Of een ander voorbeeld.  
+Een ander voorbeeld.  
 
-Je tekst: *Libelle lezers zijn in de bloei van hun leven.*  
+Je tekst: *De lezers van de Libelle zijn in de bloei van hun leven.*  
 
-Subtekst: *Libelle lezers zijn vrouwen die niets anders meer te doen hebben dan een tijdschrift lezen.*  
+Subtekst: *Dit zijn vrouwen die niets anders meer te doen hebben dan een tijdschrift lezen.*  
 
 Kan je dan helemaal niets meer zeggen? Natuurlijk wel. Het gaat om de inhoud en het betrekkingsniveau. Nadenken en doordenken over wat je doelgroep zich in het hoofd haalt. Je verplaatsen in je lezer. Wegblijven van clichés en écht goed verwoorden wat je bedoelt.

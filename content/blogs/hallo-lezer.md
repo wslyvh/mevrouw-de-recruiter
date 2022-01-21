@@ -34,4 +34,4 @@ Je tekst: *De lezers van de Libelle zijn in de bloei van hun leven.*  
 
 Subtekst: *Dit zijn vrouwen die niets anders meer te doen hebben dan een tijdschrift lezen.*  
 
-Kan je dan helemaal niets meer zeggen? Natuurlijk wel. Het gaat om de inhoud en het betrekkingsniveau. Nadenken en doordenken over wat je doelgroep zich mogelijk in het hoofd haalt. Je verplaatsen in je lezer. Wegblijven van clichés en écht goed verwoorden wat je bedoelt.
+Kan je dan helemaal niets meer zeggen? Natuurlijk wel. Het gaat om de inhoud en het betrekkingsniveau. Nadenken en doordenken over wat je doelgroep zich mogelijk in het hoofd haalt. Je verplaatsen in je lezer. Wegblijven van clichés en echt concreet verwoorden wat je bedoelt helpt.

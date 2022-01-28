@@ -22,22 +22,22 @@ Vermijd vooral bijvoeglijke naamwoorden met een oordeel. Ik bedoel daarmee bijvo
 
 Elke keer als je zo'n bijvoeglijk naamwoord wilt opschrijven, bedenk dan waarom. Wat maakt die collega's zo gezellig? Schrijf dat dan op. Welke innovatieve projecten zijn er geweest? In 2021 heeft bedrijf X gewerkt aan de lancering van een raket Y naar planeet Z. Veel interessanter. Maak het concreet.  
 
-* *Stel vragen aan de lezer.*
+* Stel vragen aan de lezer.
 
-Met (let op!) goede vragen zet je de lezer aan het denken. Goede vragen zijn vragen waarop de lezer geen antwoord op heeft. Vaak zijn het open vragen. Open vragen zijn vragen die starten met ‘wat', ‘waarom’, ‘wie’, ‘hoe’ of ‘waar’. Met uitzondering van ‘hoe gaat het?’. Dit is een gesloten vraag. zijn de rode letters niet meer weg te denken uit het straatbeeld Goed of slecht. Punt. Vaak zeg je ‘goed’, dan ben je van die vraag af. Volgende onderwerp.  
+Met vragen zet je de lezer aan het denken. Goede vragen zijn vragen waarop de lezer geen direct antwoord heeft. Vaak zijn het open vragen. Open vragen zijn vragen die starten met ‘wat', ‘waarom’, ‘wie’, ‘hoe’, 'welke' of ‘waar’. Met uitzondering van ‘hoe gaat het?’. Dat is een gesloten vraag. Het gaat goed of slecht. Punt. Vaak zeg je ‘goed’, dan ben je van die vraag af. Volgende onderwerp.  
 
-Voorbeeld van een goede vraag: Wat gebeurt er met je werk als je laptop crasht? Oh jee, dan ben ik al mijn werk vast kwijt. Snel verder lezen!  
+Voorbeeld van een goede vraag: Wat gebeurt er als je laptop crasht? Oh jee, dan ben ik al mijn werk kwijt. Snel verder lezen over deze antivirussoftware.   
 
-Ander voorbeeld: Hoe weten je nabestaanden wat ze moeten doen als je er niet meer bent? Jeetje, geen idee. Nadenken over doodgaan doe je niet zo vaak. Even lezen!  
+Ander voorbeeld: Hoe weten je nabestaanden wat ze moeten doen als je er niet meer bent? Jeetje, geen idee. Nadenken over doodgaan doe je niet zo vaak. Even verder lezen over deze uitvaartverzekering.  
 
-Gesloten vragen werken minder goed. Wil je graag een baan in de zorg? Nee. Ok dan niet. The end. De lezer leest niet verder. Dit kan je doel zijn, maar meestal niet.  
+Gesloten vragen werken minder goed. Wil je graag een baan in de zorg? Nee. Oké dan niet. The end. De lezer leest niet verder. Dit kan je doel zijn, maar meestal niet.  
 
-* *Benoem feitelijke informatie en laat de lezer ontdekken hoe die feiten zich tot elkaar verhouden.*
+* Benoem feitelijke informatie en laat de lezer ontdekken hoe die feiten zich tot elkaar verhouden.
 
 In 1926 hebben Isaac en Arthur HEMA opgericht als tegenhanger van de Bijenkorf. Sindsdien heeft het warenhuis meer dan 800 vestigingen in 11 verschillende landen geopend. 85% van de Nederlanders heeft minimaal één product waarvoor hij altijd naar de HEMA-winkel gaat.  
 
-De feiten zeggen dat HEMA al 95 jaar bestaat, de Bijenkorf verslaat, veel vestigingen heeft en internationaal opereert en dat iedereen HEMA kent. Je zegt het niet expliciet, maar impliciet toch wel: HEMA is een succesverhaal. De lezer mag dit zelf concluderen uit de feiten. 
+De feiten zeggen dat HEMA al 95 jaar bestaat, de Bijenkorf verslaat, veel vestigingen heeft, internationaal opereert en dat iedereen HEMA kent. Je zegt het niet expliciet, maar impliciet toch wel: HEMA is een succesverhaal. De lezer mag dit zelf concluderen uit de feiten. 
 
-* *Houd bij woordkeuze rekening met ‘woorden met een lading’.*  
+* Houd bij woordkeuze rekening met ‘woorden met een lading’.  
 
-Je wilt niet te emotioneel, te activistisch, te enthousiast, te zakelijk overkomen op je lezer. Het moet precies passend zijn bij het onderwerp, het bedrijf en de doelgroep. Als je je tekst terugleest, stop dan eens bij sommige woorden en denk na over hoe deze je tekst ‘kleuren'.  Het gaat hier om de tone-of-voice. Meer over ‘schrijven in alle kleuren van de regenboog’ in mijn volgende blog.
+Je wilt niet te emotioneel, te activistisch, te enthousiast of te zakelijk overkomen. Het moet precies passend zijn bij het onderwerp, het bedrijf en de doelgroep. Als je een tekst terugleest, stop dan eens bij sommige woorden en denk na over hoe deze je tekst ‘kleuren'. Het gaat hier om de tone-of-voice. Meer over schrijven in alle kleuren van de regenboog in mijn volgende blog.

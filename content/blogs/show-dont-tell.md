@@ -1,24 +1,24 @@
 ---
 title: Show don't tell
-description: expliciet of impliciet?
+description: Expliciet of impliciet. Hoe schrijf je iets zonder het te vertellen?
 date: 2022-01-27T19:56:20.068Z
 image: /images/fine-photographics-eshq8_mivak-unsplash.jpg
 category:
   - Copywriting
 ---
-Of tell, don't sell. Er zijn meerdere varianten. Ze leiden allemaal naar Rome. Hoe beschrijf je iets zonder het te vertellen? Klinkt ingewikkeld. Iets schrijven zonder het te beschrijven? Huh?  
+Of tell, don't sell. Er zijn meerdere varianten. Ze leiden allemaal naar Rome. Hoe beschrijf je iets zonder het te vertellen? Iets beschrijven zonder het te schrijven? Huh? Klinkt ingewikkeld.
 
-Je herkent vast de neiging om als schrijver, als bedrijf en als persoon te vertellen hoe fantastisch (!!) iets wel niet is. Op die manier wil je andere personen overtuigen van je ervaring. Vaak werkt dat averechts. Hoe harder jij roept dat iets fantastisch is, hoe sneller iemand anders dat niet gelooft. Zeker niet alleen maar omdat jij het zegt. Je wilt in je communicatie de lezer geboeid houden en laten zien wat fantastisch (!!) écht betekent. Hoe doe je dat? 
+Je herkent vast de neiging om als schrijver, als bedrijf en als persoon te vertellen hoe fantastisch (met vette uitroeptekens) iets is. Op die manier wil je andere personen overtuigen van je ervaring. Vaak werkt dat averechts. Hoe harder jij roept dat iets fantastisch is, hoe sneller iemand anders dat niet gelooft. Zeker niet alleen maar omdat jij het zegt. Je wilt in je communicatie de lezer geboeid houden en laten zien wat fantastisch betekent. Hoe doe je dat? 
 
-* *Schrijf over details en laat de lezer zelf de optelsom in zijn hoofd doen zodat het een geheel wordt.* 
+* Schrijf over details en laat de lezer zelf de optelsom in zijn hoofd doen zodat het een geheel wordt. 
 
-‘Je stapt naar binnen en ruikt bloemen met een vleugje mandarijn. Of is het sinaasappel? De spiegel en de kranen in de badkamer zijn gepoetst en glanzen je vlekkeloos tegemoet. De witte handdoeken zijn op het bed tot een zwaan gevouwen. Je ploft in het bed en geniet van de geur van de lakens en het comfort van de matras.’ 
+*Je stapt naar binnen en ruikt bloemen met een vleugje mandarijn. Of is het sinaasappel? De spiegel en de kranen in de badkamer zijn gepoetst en glanzen je vlekkeloos tegemoet. De witte handdoeken zijn op het bed tot een zwaan gevouwen. Je ploft in het bed en geniet van de geur van de lakens en het comfort van de matras.*
 
-Je vertelt niet dat dit de allerfijnste, schoonste, beste hotelkamer van de hele wereld is, maar neemt je lezer erin mee. Zonder het te vertellen, gaat de lezer dit toch denken. Nog beter, hij ziet zichzelf er waarschijnlijk al slapen!  
+Je vertelt niet dat dit de allerfijnste, schoonste en beste hotelkamer van de hele wereld is, maar neemt je lezer mee in de ervaring. Zonder te vertellen, gaat de lezer dit toch denken. Nog beter, hij ziet zichzelf er waarschijnlijk al slapen!  
 
-* *Vermijd bijvoeglijke naamwoorden.*  
+* Vermijd bijvoeglijke naamwoorden.  
 
-Vermijd vooral bijvoeglijk naamwoord met een oordeel. Ik bedoel daarmee bijvoeglijke naamwoorden die een mening geven over het onderwerp vanuit de schrijver. Denk bijvoorbeeld aan ‘gezellige collega's’, ‘dynamische omgeving’ of ‘innovatieve projecten’. Val je al in slaap? Als jij als schrijver dit vertelt, gelooft de lezer het niet.  
+Vermijd vooral bijvoeglijke naamwoorden met een oordeel. Ik bedoel daarmee bijvoeglijke naamwoorden die een mening geven over het onderwerp vanuit de schrijver. Denk bijvoorbeeld aan 'gezellige collega's', ‘dynamische omgeving’ of ‘innovatieve projecten’. Val je al in slaap? Als jij als schrijver dit vertelt, gelooft de lezer het niet.  
 
 Elke keer als je zo'n bijvoeglijk naamwoord wilt opschrijven, bedenk dan waarom. Wat maakt die collega's zo gezellig? Schrijf dat dan op. Welke innovatieve projecten zijn er geweest? In 2021 heeft bedrijf X gewerkt aan de lancering van een raket Y naar planeet Z. Veel interessanter. Maak het concreet.  
 

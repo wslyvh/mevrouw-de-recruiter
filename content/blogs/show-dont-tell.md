@@ -12,7 +12,7 @@ Je herkent vast de neiging om als schrijver, als bedrijf en als persoon te verte
 
 1. Schrijf over details en laat de lezer zelf de optelsom in zijn hoofd doen zodat het een geheel wordt. 
 
-Je stapt naar binnen en ruikt bloemen met een vleugje mandarijn. Of is het sinaasappel? De spiegel en de kranen in de badkamer zijn gepoetst en glanzen je vlekkeloos tegemoet. De witte handdoeken zijn op het bed tot een zwaan gevouwen. Je ploft in het bed en geniet van de geur van de lakens en het comfort van de matras.
+*Je stapt naar binnen en ruikt bloemen met een vleugje mandarijn. Of is het sinaasappel? De spiegel en de kranen in de badkamer zijn gepoetst en glanzen je vlekkeloos tegemoet. De witte handdoeken zijn op het bed tot een zwaan gevouwen. Je ploft in het bed en geniet van de geur van de lakens en het comfort van de matras.*
 
 Je vertelt niet dat dit de allerfijnste, schoonste en beste hotelkamer van de hele wereld is, maar neemt je lezer mee in de ervaring. Zonder te vertellen, gaat de lezer dit toch denken. Nog beter, hij ziet zichzelf er waarschijnlijk al slapen!  
 

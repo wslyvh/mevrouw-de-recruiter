@@ -2,7 +2,7 @@
 title: "Hallo lezer!  "
 description: "Omgangsvormen in schrijfland. Voor wie schrijf je eigenlijk? "
 date: 2022-01-20T16:19:31.693Z
-image: /images/kelli-tungay-2lj4rqk2qfu-unsplash.jpg
+image: /images/moren-hsu-vlakstkmvhk-unsplash.jpg
 category:
   - Copywriting
 ---

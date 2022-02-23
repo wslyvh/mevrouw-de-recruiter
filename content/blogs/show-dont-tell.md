@@ -1,5 +1,5 @@
 ---
-title: Show don't tell
+title: Show don't tell.
 description: Expliciet of impliciet. Hoe schrijf je iets zonder het te vertellen?
 date: 2022-01-27T19:56:20.068Z
 image: /images/fine-photographics-eshq8_mivak-unsplash.jpg

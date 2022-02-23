@@ -58,7 +58,7 @@ Weet je het antwoord? Ik niet! Geen idee. Dit is compleet verzonnen. Ik zit zelf
 
 **Stap 5: Speel met de kleuren van de regenboog**
 
-Het kleurenpalet van de tone-of-voice geeft je de mogelijkheid om je tekst te kleuren. Picasso is er niets bij. Welke kleur past bij jouw karakterkaart? Verwerk deze in je tekst. Zo spreek je de taal van het bedrijf én de doelgroep.\
+Het kleurenpalet van de tone-of-voice geeft je de mogelijkheid om je tekst te kleuren. Picasso is er niets bij. Welke kleuren passen bij jouw karakterkaart? Verwerk deze in je tekst. Zo spreek je de taal van het bedrijf én de doelgroep.\
 Als voorbeeld nemen we ‘een gezondere levensstijl’. Eens zien of je het verschil voelt. 
 
 * Rood (emotioneel, vol passie, temperamentvol, gevaarlijk, vurig)

@@ -1,7 +1,7 @@
 ---
 title: Copywriting
-description: Het schrijven van (online) teksten gebaseerd op een concept en
-  gemaakt voor de doelgroep.
+description: Het schrijven van (online) teksten vanuit een concept en speciaal
+  voor de doelgroep.
 image: /images/kelli-tungay-2lj4rqk2qfu-unsplash.jpg
 ---
 Iedereen kan teksten schrijven. Dat klopt. Oefening baart kunst. Het schrijven van web-teksten, teksten voor social media, vacatureteksten, rationales, InMails, (nieuws)brieven en proposities is je hobby, je vak, je passie of niet. Of je hebt er simpelweg soms geen tijd voor. 

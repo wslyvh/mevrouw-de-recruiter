@@ -28,7 +28,7 @@ Doe hetzelfde met je contactpersonen binnen het bedrijf: welke karaktereigenscha
 
 **Stap 3: Kies een positionering**
 
-Nu je weet wat de perceptie is van de doelgroep, moet je gaan kiezen. Versterken of verschuiven? Die laatste bijvoorbeeld als er een positioneringsprobleem blijkt te zijn. Als één van de karaktereigenschappen écht haaks op elkaar staat, dan weet je dat daarop je focus moet liggen in je toon en tekst. 
+Nu je weet wat de perceptie is van de doelgroep, moet je gaan kiezen. Versterken of verschuiven? Dat laatste bijvoorbeeld als er een positioneringsprobleem blijkt te zijn. Als één van de karaktereigenschappen écht haaks op elkaar staat, dan weet je dat daarop de focus moet liggen in je toon en tekst. 
 
 **Stap 4: Maak een karakterkaart**
 

@@ -6,6 +6,7 @@ date: 2023-02-03T19:54:32.356Z
 image: /images/katie-rainbow-90bg59hzxxe-unsplash.jpg
 category:
   - Diversiteit & Inclusiviteit
+  - Copywriting
 ---
 Bij het werven en selecteren van nieuwe medewerkers moet iedereen dezelfde kansen krijgen. Er zijn 12 persoonskenmerken, waaronder gender, beschermd door de wet. Op iemands geslacht mag je niet discrimineren, wat betekent iemand ongelijk behandelen. Ook in vacatureteksten mag geen voorkeur worden vermeld voor man, vrouw of non-binair. Behalve als je specifiek zoekt naar een vrouwelijke actrice voor de rol van Koningin Beatrix in een nieuwe speelfilm. Een tip is om bij beroepen met een sterke neiging naar een bepaald geslacht achter de functienaam (m/v/x) te zetten. Bijvoorbeeld bij een vacaturetekst voor chauffeur, chirurg, loodgieter, apothekersassistent of schoonheidsspecialist.
 

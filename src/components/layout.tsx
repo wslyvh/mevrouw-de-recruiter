@@ -21,7 +21,7 @@ export function Layout(props: Props) {
           <nav className={styles.nav}>
             <ul>
               <li><Link href='/blog'>Blog</Link></li>
-              <li><Link href='mailto:${settings.email}'>Contact</Link></li>
+              <li><Link href={`mailto:${settings.email}`}>Contact</Link></li>
             </ul>
           </nav>
           <div className={styles.image}>

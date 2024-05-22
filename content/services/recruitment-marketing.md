@@ -1,6 +1,6 @@
 ---
 title: "Recruitmentmarketing "
-description: Employer branding en jobmarketing.
+description: Employer branding en jobmarketing
 image: /images/lukas-blazek-mcsdtbwxuzu-unsplash.jpg
 ---
 Zonder employer branding geen jobmarketing. En andersom. Vacatures de ether inschieten is als schieten met hagel. Als je doelgroep het werkgeversmerk niet goed kent, solliciteren ze niet. 

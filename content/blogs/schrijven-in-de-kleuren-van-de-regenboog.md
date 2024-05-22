@@ -1,5 +1,5 @@
 ---
-title: Schrijven in de kleuren van de regenboog.
+title: Schrijven in de kleuren van de regenboog
 description: "Maak een karakterkaart en kies een passende tone-of-voice voor je tekst. "
 date: 2022-02-23T15:37:29.558Z
 image: /images/kelli-tungay-2lj4rqk2qfu-unsplash.jpg
